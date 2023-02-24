@@ -1,0 +1,25 @@
+Magnetic sensor
+it's working 
+link:https://www.youtube.com/watch?v=q-L6tK-9vkg
+
+
+Hall effect sensor
+it's working and types
+link:https://www.youtube.com/watch?v=cd6gzTW_Upw
+
+Gyroscope sensor
+it's working with implementation in arduino
+link:https://www.youtube.com/watch?v=5iuODJ5YA5U&t=116s
+
+Gesture sensor
+its working :Gesture detection uses four directional photodiodes to sense IR energy emitted from the integrated LED, converting the measurements of reflected IR light into information about physical motion.
+link:https://www.google.com/search?q=gesture+sensors&oq=gesture+sensors&aqs=edge..69i57j0i10i15i22i30j0i10i22i30j0i15i22i30l2j0i22i30j0i15i22i30j0i390j69i64.3438j0j1&sourceid=chrome&ie=UTF-8
+buying link:https://www.google.com/search?q=gesture+sensors&sxsrf=AJOqlzUrmj4Hp8EZaGJTHxDMiGJxs4HNkA:1674236641912&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjrqL7C2db8AhXP1XMBHSi8B0cQ_AUoAnoECAEQBA&biw=1280&bih=601&dpr=1.5
+
+Flex sensor
+it's working
+link:https://en.wikipedia.org/wiki/Flex_sensor
+buying link:https://www.google.com/search?q=what+is+flex+sensor&sxsrf=AJOqlzV05EWjGerjfU8pQtGQiU9assrzVg:1674236768554&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjM7-_-2db8AhVFgOYKHVjkC2sQ_AUoA3oECAEQBQ&biw=1280&bih=601&dpr=1.5
+
+Strech and bend sensor(most suitable candidate for the prototype so far)
+it's working :https://www.google.com/search?sxsrf=AJOqlzVF1XmleHoKPgQRm6ty6AH3cxIhFQ:1677177538708&q=stretch+and+bend+sensor&spell=1&sa=X&ved=2ahUKEwjv3K2bpaz9AhUR3jgGHVujAuMQBSgAegQICBAB&biw=1280&bih=601&dpr=1.5

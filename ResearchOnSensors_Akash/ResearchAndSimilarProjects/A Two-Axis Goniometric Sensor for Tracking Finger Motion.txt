@@ -1,0 +1,6 @@
+A Two-Axis Goniometric Sensor for Tracking Finger Motion
+
+
+link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5422043/
+
+-Akash Nair
