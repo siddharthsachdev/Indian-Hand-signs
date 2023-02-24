@@ -1,0 +1,4 @@
+Gesture detection uses four directional photodiodes to sense IR energy emitted from the integrated LED, converting the measurements of reflected IR light into information about physical motion.
+
+
+web page link:https://ams.com/en/gesture-color-sensors-proximity-detection#:~:text=Gesture%20detection%20uses%20four%20directional,into%20information%20about%20physical%20motion.
